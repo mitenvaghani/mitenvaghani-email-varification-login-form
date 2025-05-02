@@ -1,6 +1,6 @@
 # login Account Management System
 
-## Overview 
+## Overview     
 This project is a simple web application for managing user accounts in a cryptocurrency platform. It includes functionalities for user registration, OTP verification, login, and an admin dashboard.
 
 ## File Structure
